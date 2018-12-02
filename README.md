@@ -1,22 +1,12 @@
 ## Table of Contents
 
-The project includes a google path finder. It find the route between the two locations using google map api.<br>
+# Splitwise
 
+### Step to follow:
 
-## App
+- Clone this repo in your system
+- Set api key by going into -> route-finder\app\src\common\config\constants.js
+- run npm install by going into root folder.
+- run npm start.
 
-App includes the UI package for the application.
-
-## Server
-
-Server includes the mock api for the application.
-
-## Step to follow
-
-## Installing Dependencies
-
-npm install
-
-## Start Application
-
-npm start
+### You are good to go...
