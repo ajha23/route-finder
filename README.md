@@ -1,6 +1,6 @@
 ## Table of Contents
 
-# Splitwise
+# Route Finder
 
 ### Step to follow:
 
